@@ -1,8 +1,11 @@
 # sql-challenge-alec-miller
 SQL Homework - Pewlett Hackard
 
-EmployeeSQL
-  - data - Contains data sources for queries
-  - images - Contains screen shot of QuickDBD ERD
-  - schema_employees.txt - schema as text
-  - sql_queries.txt - contains queries for desired results
+Step 1 - Climate Analysis and Exploration
+  - surfing.ipynb - jupyter notebook
+    - Contains required qeuries
+    - Contains both required chars
+
+Step 1 - Climate Analysis and Exploration
+  - app.py - python notebook
+   - Contains queries connected to the flask API
